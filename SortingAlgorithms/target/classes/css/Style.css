@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "Press Start 2P";
+    src: url(../fonts/game.ttf);
+}
+
+#screen,
+#menu {
+    -fx-background-color: #1e1e1e;
+}
+
+.button {
+    -fx-font-family: "Press Start 2P";
+    -fx-background-color: #25292C;
+    -fx-text-fill: white;
+    -fx-font-size: 20px;
+}
