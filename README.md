@@ -64,10 +64,10 @@ cd JAVAFx-Sorting-Algorithm-Visualizer
 
 ## 🛠️ Future Plans
 
-* 🔢 Add Binary Tree Visualizations (insert, delete, traverse)
+* 🔢 Add Audio (To recreate famous sorting algorithm videos)
 * 👣 Step-by-step execution mode
 * 📈 Time complexity charts per algorithm
-* 🌐 Convert to a web-based version for browser access
+* 🌐 Convertion to a web-based version for browser access
 
 ## 👨‍💻 Author
 
