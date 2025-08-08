@@ -6,7 +6,7 @@
 
 ## 📸 Screenshots
 
-![UI]('sorting-algorithm-visualizer.gif')
+![UI](sorting-algorithm-visualizer.gif)
 
 ## 🎯 Purpose
 
