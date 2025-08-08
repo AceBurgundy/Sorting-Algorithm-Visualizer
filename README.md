@@ -1,8 +1,12 @@
-# 🌳 JAVAFx BinaryTree Visualizer
+# 🌳 Sorting Algorithm Visualizer
 
-**JAVAFx BinaryTree Visualizer** is a JavaFX desktop application designed to visually demonstrate the inner workings of popular sorting algorithms. It animates how data is sorted in real time, making it an excellent educational tool for students, teachers, and self-learners.
+**Sorting Algorithm Visualizer** is a JavaFX desktop application designed to visually demonstrate the inner workings of popular sorting algorithms. It animates how data is sorted in real time, making it an excellent educational tool for students, teachers, and self-learners.
 
 > 🔍 This project is open-source and licensed under the **GNU GPL v3** to encourage collaboration, modification, and learning.
+
+## 📸 Screenshots
+
+[UI]('sorting-algorithm-visualizer.gif')
 
 ## 🎯 Purpose
 
@@ -38,13 +42,8 @@ This tool bridges the gap between textbook theory and visual intuition, allowing
 
 ### ✅ Option 1: Download Executable
 
-You can download and run the compiled application directly:
-
-🔗 [Download Sorting Algorithms.exe](https://github.com/AceBurgundy/JAVAFx-Sorting-Algorithm-Visualizer/raw/main/Sorting%20Algorithms.exe)
-
+You can download and run the compiled application directly at the releases section.
 No setup required—just download and launch!
-
-### 🛠️ Option 2: Build from Source
 
 #### Requirements
 
@@ -60,16 +59,8 @@ git clone https://github.com/AceBurgundy/JAVAFx-Sorting-Algorithm-Visualizer.git
 cd JAVAFx-Sorting-Algorithm-Visualizer
 
 # Open the project in your IDE and make sure JavaFX is configured
-# Run the main class (usually Main.java)
+# Run the main class
 ```
-
-## 📸 Screenshots *(Optional)*
-
-*Consider adding screenshots like:*
-
-* Algorithm selection screen
-* Sorting in progress (animations)
-* Speed control and other UI features
 
 ## 🛠️ Future Plans
 
